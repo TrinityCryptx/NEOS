@@ -1,4 +1,4 @@
-# Introducing Non-Existent OS - the Most Secure Operating System
+# Non-Existent OS - The Most Secure Operating System
 
 Today I announce the creation of a project I have been thinking about for a while now and that is Non existent OS (NE OS). NE OS is an operating system with only security in mind. I realised that the problem that is inherent in all modern day operating systems is that they exist and therefore there is always the possibility of a vulnerability. However if the operating system does not exist then the vulnerability would also have to not exist for it to work, but if it doesn't exist how can you say there is a vulnerability? Therefore there is no possible vulnerability for NE OS.
 
